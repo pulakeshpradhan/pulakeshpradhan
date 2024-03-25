@@ -1,16 +1,47 @@
-### Hi there 👋
+![pulakesh](./1377353072.jpg)
 
-<!--
-**pulakeshpradhan/pulakeshpradhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi, I'm Pulakesh Pradhan! 🎓📚
 
-Here are some ideas to get you started:
+[![](https://img.shields.io/github/followers/pulakeshpradhan?style=social)](https://github.com/pulakeshpradhan)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=pulakeshpradhan.pulakeshpradhan)
+[![YouTube Badge](https://img.shields.io/badge/My-YouTube-red)](https://www.youtube.com/@geospatialresearchacademy)
+[![Website Badge](https://img.shields.io/badge/My-Website-success)](https://pulakeshpradhan.github.io/)
+[![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/pulakeshpradhan/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+PhD Scholar, UGC-JRF (Geospatial Technology in Agriculture, Climate Change Monitoring and Regional Development)
+
+
+<h3 align="left">Programming Languages:</h3>
+<p align="left"> <a href="[https://www.python.org](https://developers.google.com/earth-engine/datasets/)" target="_blank" rel="noreferrer"> <img src="./googleearth-engine_104576.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  <a href="[https://www.python.org](https://www.r-project.org/)" target="_blank" rel="noreferrer"> <img src="./file_type_r_icon_130212.svg" alt="python" width="40" height="40"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+
+</p>
+
+
+### Projects
+- Google Earth Engine (GEE)
+- Climate Change
+
+### Skills
+- Typing Speed 50+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
