@@ -23,6 +23,7 @@ PhD Scholar, UGC-JRF (Geospatial Technology in Agriculture, Climate Change Monit
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="ArcGIS-Desktop.png" alt="python" width="40" height="40"/> </a>   
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="./QGIS_logo.svg" alt="javascript" width="40" height="40"/> </a>    
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/SPSS_logo.svg" alt="javascript" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="./SmartPLS_Logo.png" alt="javascript" width="40" height="40"/> </a>
 
 </p>
 
