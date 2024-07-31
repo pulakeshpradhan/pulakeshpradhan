@@ -18,7 +18,7 @@ PhD Scholar, UGC-JRF (Geospatial Technology in Agriculture, Climate Change Monit
 </p>
 
 <h3 align="left">Software Skills:</h3>
-<p align="left"> <a href="[https://www.python.org](https://developers.google.com/earth-engine/datasets/)" target="_blank" rel="noreferrer"> <img src="./ArcGIS_Pro_logo.png" alt="python" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="ArcGIS-Desktop.png" alt="python" width="40" height="40"/> </a>  <a href="[https://www.python.org](https://www.r-project.org/)" target="_blank" rel="noreferrer"> <img src="[./QGIS_logo.svg](https://www.qgis.org/img/logosign.svg)" alt="python" width="40" height="40"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<p align="left"> <a href="[https://www.python.org](https://developers.google.com/earth-engine/datasets/)" target="_blank" rel="noreferrer"> <img src="./ArcGIS_Pro_logo.png" alt="python" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="ArcGIS-Desktop.png" alt="python" width="40" height="40"/> </a>  <a href="[https://www.python.org](https://www.r-project.org/)" target="_blank" rel="noreferrer"> <img src="[./QGIS_logo.svg](https://www.qgis.org/img/logosign.svg)" alt="python" width="40" height="40"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="./QGIS_logo.svg" alt="javascript" width="40" height="40"/> </a>
 
 </p>
 
