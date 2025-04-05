@@ -1,4 +1,4 @@
-![pulakesh](./1377353072.jpg)
+![pulakesh](./ravenshaw.jpg)
 
 ## Hi, I'm Pulakesh Pradhan! 🎓📚
 
